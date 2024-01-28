@@ -19,6 +19,9 @@ header {
     background: rgba(255, 144, 14, 0.10);
     padding: 50px 50px;
 }
+body{
+    padding: 50px 50px;
+}
 
 nav {
     display: flex;
@@ -185,6 +188,8 @@ main {
 
 .features-descrep {
     color: #727272;
+    margin-top: 24px;
+    margin-bottom: 30px;
 }
 
 .features {
