@@ -266,6 +266,9 @@ main {
     header {
         padding: 20px;
     }
+    .banner-title{
+        font-size: 2rem;
+    }
 
     nav,
     .features,
@@ -282,7 +285,7 @@ main {
     }
 
     .ten-years-batch{
-        max-width: 280px;
+        max-width: 200px;
         position: static;
     }
 
@@ -300,6 +303,13 @@ main {
         gap: 20px;
     }
 
+    .sponsers-descrep,.facts-descrip,.teams-description{
+        width: auto;
+    }
+.teams-content{
+    margin: 20px 0 0 0;
+    
+}
 
 
 }
