@@ -17,7 +17,7 @@
 /* header style. */
 header {
     background: rgba(255, 144, 14, 0.10);
-    padding: 50px 240px;
+    padding: 50px 50px;
 }
 
 nav {
@@ -50,6 +50,15 @@ nav li a {
 }
 
 /* banner style. */
+
+.banner{
+    margin-top: 100px;
+}
+
+.banner-title{
+    width: 70%;
+    margin: auto;
+}
 
 .banner-content {
     max-width: 800px;
