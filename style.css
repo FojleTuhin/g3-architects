@@ -214,7 +214,8 @@ main {
 
 .features-img img {
     width: 100%;
-    margin-left: 50px;
+    object-fit: cover;
+    
 }
 
 
@@ -222,15 +223,17 @@ main {
     border-radius: 8px;
     background: #ff900e;
     color: #fff;
-    width: 342px;
-    padding: 40px;
+    width: 242px;
+    padding: 30px;
     text-align: center;
     position: relative;
     bottom: 100px;
+    right: 40px;
+
 }
 
 .ten-years-batch h2 {
-    font-size: 4rem;
+    font-size: 3rem;
     margin: 0;
 }
 
