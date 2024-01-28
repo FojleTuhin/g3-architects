@@ -129,12 +129,22 @@ main {
 
 .teams-description {
     color: #727272;
+    margin-top: 24px;
+}
+
+.explore{
+    margin-top: 32px;
+}
+
+.facts{
+    margin-top: 150px;
 }
 
 
 .facts-card-container {
     display: flex;
-    justify-content: space-around
+    justify-content: space-around;
+    margin-top: 100px;
 }
 
 .facts-card-container .card {
@@ -162,6 +172,7 @@ main {
 
 .facts-descrip {
     color: #727272;
+    margin-top: 24px;
 }
 
 
