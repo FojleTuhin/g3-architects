@@ -172,16 +172,22 @@ main {
 
 .facts-descrip {
     color: #727272;
+    width: 50%;
+   
     margin-top: 24px;
 }
 
 
 .sponsers-descrep {
     color: #727272;
+    width: 500px;
+    margin: auto;
+    margin-top: 24px;
 }
 
 .sponsers {
     text-align: center;
+    margin-top: 100px;
 }
 
 
@@ -199,8 +205,9 @@ main {
 
 .features-descrep {
     color: #727272;
-    margin-top: 24px;
     margin-bottom: 30px;
+    
+    margin-top: 24px;
 }
 
 .features {
