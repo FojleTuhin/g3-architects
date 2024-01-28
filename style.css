@@ -75,12 +75,13 @@ nav li a {
     color: #131313;
 }
 
-.banner-description {
+.banner-descreption{
     color: #727272;
+    margin-top: 20px;
 }
 
 .banner img {
-    margin-top: 20px;
+    margin-top: 50px;
     width: 100%;
 }
 
