@@ -263,14 +263,15 @@ main {
 
 
 footer{
-    background-color: #ff900e;
+    background-color: #FFCF96;
     text-align: center;
-    color: white;
+    color: black;
     height: 50px;
     margin:20px 100px;
     display: flex;
     align-items: center;
     justify-content: center;
+    font-weight: 700;
 }
 
 @media screen and (max-width:576px) {
